@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">I'm a computer science student in Ontario tech university</h3>
-<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fanime-code-wallpaper-uqtti&psig=AOvVaw3UfGexptfzs6zec5yM4sSW&ust=1692245415961000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICx99yn4IADFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fsimple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_773815-96.jpg%3Fw%3D2000&tbnid=zqQO0otstFD-SM&vet=12ahUKEwiRwvX1p-CAAxXWEWIAHRtzBIkQMygFegQIARBi..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fsimple-cat-coding-laptop-tech-software-engineer-design-vector-illustration_39720139.htm&docid=mOD4VV6ZDvEx3M&w=2000&h=2000&q=animal%20coding%20images&ved=2ahUKEwiRwvX1p-CAAxXWEWIAHRtzBIkQMygFegQIARBi">
 
 - 💬 Ask me about **stats, C++, python**
 
