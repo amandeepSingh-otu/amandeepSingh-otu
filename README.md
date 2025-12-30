@@ -1,13 +1,56 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">I'm a computer science student at Ontario tech university</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
+  <h1 align="center">Hi there, I'm Aman! 🌸</h1>
+  <h3 align="center">Computer Science & Math @ Ontario Tech University</h3>
+  <p>🎓 <b>4.2/4.3 cGPA</b> &nbsp;|&nbsp; 🌷 <b>Software Dev & Automation</b> &nbsp;|&nbsp; ✨ <b>Incoming AI Dev Intern</b></p>
 
-- 📫 How to reach me **amandeepsingh.amandeepsingh@ontariotechu.net**
+  <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amandeep-singh-otu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amandeep-singh-a74ab01a9/" height="30" width="40" /></a>
-<a href="https://instagram.com/_amandhaliwal_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amandhaliwal_1" height="30" width="40" /></a>
-</p>
+  <!-- Social Icons -->
+  <a href="https://www.linkedin.com/in/amandeep-singh-a74ab01a9/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="mailto:amandeepsingh.amandeepsingh@ontariotechu.net" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/uV65gaF4E0U2jOoC8i/giphy.gif" width="30">
+</div>
+
+---
+
+### ⚡ Technical Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-FF99CC?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-FF99CC?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-FF99CC?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-FF99CC?style=flat&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-FF99CC?style=flat&logo=postgresql&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-FF99CC?style=flat&logo=dart&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-FF99CC?style=flat&logo=mathworks&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-FF99CC?style=flat&logo=html5&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-FF99CC?style=flat&logo=spring-boot&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-FF99CC?style=flat&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/-React-FF99CC?style=flat&logo=react&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-FF99CC?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-FF99CC?style=flat&logo=flutter&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-FF99CC?style=flat&logo=pytorch&logoColor=white) ![Lightning](https://img.shields.io/badge/-PyTorch_Lightning-FF99CC?style=flat&logo=pytorch-lightning&logoColor=white) |
+| **Libraries** | ![Pandas](https://img.shields.io/badge/-Pandas-FF99CC?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-FF99CC?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF99CC?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-FF99CC?style=flat&logo=python&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-FF99CC?style=flat&logo=hibernate&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-FF99CC?style=flat&logo=tailwind-css&logoColor=white) ![JUnit](https://img.shields.io/badge/-JUnit-FF99CC?style=flat&logo=junit5&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-FF99CC?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-FF99CC?style=flat&logo=git&logoColor=white) ![Power Platform](https://img.shields.io/badge/-Power_Platform-FF99CC?style=flat&logo=microsoftpowerplatform&logoColor=white) ![Power Automate](https://img.shields.io/badge/-Power_Automate-FF99CC?style=flat&logo=powerautomate&logoColor=white) |
+
+---
+
+###  Experience
+
+#### 🌺 **Incoming AI Developer** @ Fidelity Canada
+*Jan 2026 -- April 2026*
+
+#### 💐 **Automation Analyst Intern** @ Fidelity Canada
+*July 2025 -- Dec 2025*
+
+#### 🌷 **Software Engineering Intern** @ Fidelity Canada
+*Jan 2025 -- July 2025*
+
+#### 🪷 **Research Intern** @ Claim Lab (Ontario Tech)
+*May 2024 -- Aug 2024*
+
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%">
+</div>
